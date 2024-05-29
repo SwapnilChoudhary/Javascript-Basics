@@ -78,3 +78,6 @@ The object can be created in two ways in JavaScript:
 
 Object Literal
 Object Constructor
+
+Note: The JavaScript Object.create() Method creates a new object, using an existing object as the prototype of the newly created object.
+
