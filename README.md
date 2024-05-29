@@ -55,9 +55,9 @@ JavaScript is best known for web page development but it is also used in a varie
 
 Introduction to Object Oriented Programming in Javascript :
 
-    The concept of Object Oriented Programming in JavaScript was introduced in ES6. Before ES6 JavaScript did not support the OOPs and it was a completely functional-based programming language everything was done with the help of functions. We can implement the OOPs in ES6 by creating classes and their object instances. Now, after the introduction of ES6, JavaScript become an Object Oriented Programming language as it supports all four basic pillars of OOPs which are inheritance, encapsulation, abstraction, and polymorphism.
+The concept of Object Oriented Programming in JavaScript was introduced in ES6. Before ES6 JavaScript did not support the OOPs and it was a completely functional-based programming language everything was done with the help of functions. We can implement the OOPs in ES6 by creating classes and their object instances. Now, after the introduction of ES6, JavaScript become an Object Oriented Programming language as it supports all four basic pillars of OOPs which are inheritance, encapsulation, abstraction, and polymorphism.
 
-    As JavaScript is widely used in Web Development, in this article we will explore some of the Object Oriented mechanisms supported by JavaScript to get the most out of it. Some of the common interview questions in JavaScript on OOPS include:
+As JavaScript is widely used in Web Development, in this article we will explore some of the Object Oriented mechanisms supported by JavaScript to get the most out of it. Some of the common interview questions in JavaScript on OOPS include:
 
 How is Object-Oriented Programming implemented in JavaScript? 
 How does it differ from other languages? 
