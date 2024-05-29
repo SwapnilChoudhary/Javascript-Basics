@@ -88,3 +88,4 @@ Abstraction: Abstraction means displaying only essential information and hiding 
 
 Encapsulation: The process of wrapping properties and functions within a single unit is known as encapsulation. 
 
+Inheritance: It is a concept in which some properties and methods of an Object are being used by another Object. Unlike most of the OOP languages where classes inherit classes, JavaScript Objects inherit Objects i.e. certain features (property and methods) of one object can be reused by other Objects. 
