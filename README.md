@@ -52,3 +52,29 @@ JavaScript is both compiled and interpreted. In the earlier versions of JavaScri
 The V8 engine initially uses an interpreter, to interpret the code. On further executions, the V8 engine finds patterns such as frequently executed functions, and frequently used variables, and compiles them to improve performance.
 
 JavaScript is best known for web page development but it is also used in a variety of non-browser environments. 
+
+Introduction to Object Oriented Programming in Javascript :
+
+    As JavaScript is widely used in Web Development, in this article we will explore some of the Object Oriented mechanisms supported by JavaScript to get the most out of it. Some of the common interview questions in JavaScript on OOPS include:
+
+How is Object-Oriented Programming implemented in JavaScript? 
+How does it differ from other languages? 
+Can you implement Inheritance in JavaScript?
+and so on…
+
+There are certain features or mechanisms which make a Language Object-Oriented like:
+
+OOPs Concept in JavaScript
+
+Object	Classes	Encapsulation
+Abstraction	Inheritance	Polymorphism
+Let’s dive into the details of each one of them and see how they are implemented in JavaScript.
+
+Object: An Object is a unique entity that contains properties and methods. For example “a car” is a real-life Object, which has some characteristics like color, type, model, and horsepower and performs certain actions like driving. The characteristics of an Object are called Properties in Object-Oriented Programming and the actions are called methods. An Object is an instance of a class. Objects are everywhere in JavaScript, almost every element is an Object whether it is a function, array, or string. 
+
+Note: A Method in javascript is a property of an object whose value is a function. 
+
+The object can be created in two ways in JavaScript:
+
+Object Literal
+Object Constructor
