@@ -96,4 +96,3 @@ Note: The Person and Student objects both have the same method (i.e toString()),
 
 Polymorphism: Polymorphism is one of the core concepts of object-oriented programming languages. Polymorphism means the same function with different signatures is called many times. In real life, for example, a boy at the same time may be a student, a class monitor, etc. So a boy can perform different operations at the same time. Polymorphism can be achieved by method overriding and method overloading
 
-JavaScript is best known for web page development but it is also used in a variety of non-browser environments.
